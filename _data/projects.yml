@@ -1,0 +1,28 @@
+- layout: top-middle
+  name: Beer Recommendation System
+  description: | # this will include new lines to allow paragraphs
+    - Built neighborhood based and model based collaborative filtering algorithms for beer recommendation.
+    - Developed a Content based recommendation system using NLP on beer review-text.
+    - Tackled recommendation concerns such as cold- start, variety, serendipity and accuracy.
+    - Developed the project in python using surprise, NL toolkit and scikit-learn packages.
+
+- layout: top-middle
+  name: Linked Data Crawler
+  description: |
+    - Built a data crawler that crawls the data distributed across the Linked Open Data cloud.
+    - Developed de-duplication modules to save the memory used.
+    - Technologies Used: Java, RDF, MongoDB, Sparql.
+
+- layout: top-middle
+  name: Injection Molding Machine Simulator
+  description: |
+    - Built an Injection Molding Machine(IMM) simulator that simulated the pressure, current, and pressure inside the machine while molding plastic objects.
+    - Built an ML module for anomaly detection of the IMM machine parameters.
+    - Technologies used: Python, Raspberry Pi, Kafka, MQTT, Elasticsearch, Kibana, CBLOF.
+
+- layout: top-middle
+  name: Bluetooth Remote Control for PC Using Java Mobile
+  description: |
+    - Developed a mobile application that can be used to input to the PC like standard keyboard and mouse.
+    - Built an ML module for anomaly detection of the IMM machine parameters.
+    - Technologies used: Java, J2ME.

@@ -1,0 +1,49 @@
+- layout: left
+  company: Robert Bosch GmbH
+  jobs:
+    - title: Data Scientist (Master Thesis Student)
+      dates: Jun 2021 - Dec 2021
+  description: | # this will include new lines to allow paragraphs
+    Thesis topic: AI-based Generation of District Heating Networks from GIS Data.
+    - Used deep reinforcement learning method along with Monte Carlo Tree Search to achieve
+    the task.
+    - Developed a network generator that outputs an optimal pipe network topology to connect
+    the heat sources to consumers, i.e. buildings for a specific residential area.
+
+- layout: left
+  company: Fraunhofer IEM
+  jobs:
+    - title: Full-Stack Developer (Werkstudent)
+      dates: Sep 2019 - May 2021
+  description: | # this will include new lines to allow paragraphs
+    - Worked as a full-stack developer on an Industrie 4.0 module.
+    - Created a full IoT workflow.
+    - Designed and developed a multi-node ELK stack.
+    - Integrated Raspberry Pi, MQTT, and ELK stack.
+    - Created ML module for predicting possible hacks into IoT.
+    - Created a Flask and SocketIO based front end.
+
+- layout: left
+  company: Continental Automotive
+  jobs:
+    - title: Senior Engineer
+      dates: Mar 2017 - Aug 2018
+  description: | # this will include new lines to allow paragraphs
+    Worked as a software developer for the development and enhancement of Java-based Web applications. My roles included:
+    - Analyze the requirements from the Product-Owner and estimate the tasks to be delivered.
+    - Design solutions for new modules to be developed by junior developers.
+    - Develop new modules based on requirements and unit testing.
+    - Take technical sessions for junior developers and write blogs on technical topics.
+    - Support marketing of the application by giving seminars and webinars.
+
+- layout: left
+  company: Robert Bosch Engineering and Business Solutions Ltd.
+  jobs:
+    - title: Senior Software Engineer
+      dates: Aug 2012 - Feb 2017
+  description: | # this will include new lines to allow paragraphs
+    Worked as a software developer for the development and enhancement of Java-based Web and Standalone applications. My roles included:
+    - Collect and analyze requirements from Product-Owner/Client and estimate delivery time.
+    - Design and develop solutions for new requirements individually and/or in teams.
+    - Release Management of applications.
+    - Mentoring new developers and team members on the technical front and ensure code quality.

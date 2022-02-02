@@ -1,0 +1,61 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Abhinava Nagapati Hegde
+title: Data Scientist
+email: hegde.abhinav007@gmail.com
+phone: +49(176)43606609
+website: http://abhinav-hegde.github.io
+
+
+# Social links
+
+github_username:  abhinavhegde
+linkedin_username: abhinav-hegde
+
+
+about_title: About Me
+about_profile_image: images/AbhinavHegde.jpeg
+about_content: # this will include new lines to allow paragraphs
+  Passionate Data Scientist accomplished in compiling, transforming, and analyzing complex structures in the data. Experienced for over 9 years in building machine learning models, web development, and full-stack development, with demonstrated success in building efficient solutions to business problems.
+
+experience_title: Experience #(Use this to override about experience section title)
+education_title: Education #(Use this to override about education section title)
+projects_title: Projects
+
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
